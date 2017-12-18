@@ -1,5 +1,9 @@
 # synusiaLookup
-Ultra bàsic Lookup de isbn a partir de títol, autor i publisher
+Ultra bàsic Lookup de isbn a partir de títol, autor i publisher, preparat per baixar i executar.
+depen de googlebooks, per tan després de clonar tirar 
+`git clone --recursive`
+o si ja has fet clon fer:
+`git submodule update --init --recursive`
 
 ## Usage
 Entrada de fitxer csv:
