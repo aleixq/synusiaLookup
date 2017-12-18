@@ -1,0 +1,3 @@
+[submodule "googlebooks"]
+	path = googlebooks
+	url = https://github.com/hoffmann/googlebooks.git
